@@ -5,7 +5,7 @@ public class Bank
     public static void main(String[] args)
     {
         int choice,noOfPeople=0;
-        int totalBalance=2000;
+        int totalBalance=1000;
         Scanner sc = new Scanner(System.in);
         Queue queue=new Queue();
         Transaction transaction=new Transaction();
